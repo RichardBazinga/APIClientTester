@@ -1,1 +1,1 @@
-alert('Alterado atraves do Dell');
+alert('Alterando no Samsung');
